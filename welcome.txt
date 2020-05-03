@@ -12,3 +12,4 @@ ssh demo
 new line added
 fetch
 newdemo branch
+undo changs from remote
